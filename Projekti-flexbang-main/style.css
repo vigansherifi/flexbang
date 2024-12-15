@@ -1,0 +1,61 @@
+#navbari {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#personi {
+  border-radius: 100%;
+}
+
+#netflix {
+  border-radius: 100%;
+  height: 50px;
+}
+
+#sylvia {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+
+#alesandro {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+
+#teb {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+
+.tabelja1 {
+  background-color: blue;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+}
+.shigjeta {
+  height: 40px;
+  width: 40px;
+}
+#butoni {
+  background-color: rgb(138, 138, 233);
+  text-align: center;
+  border-radius: 10px;
+  border-color: white;
+  color: white;
+  padding: 5px 15px;
+}
+
+#mastercard {
+  height: 20px;
+}
+
+    
