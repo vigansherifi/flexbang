@@ -58,4 +58,8 @@
   height: 20px;
 }
 
-    
+.diviimadh {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
